@@ -49,7 +49,19 @@
     - title: UUID生成
       url: https://1024tools.com/uuid/
       description: UUID在线生成
-    
+    - title: 轻抖
+      qrcode: 
+      logo: images/logos/qingdou.jpg
+      url: https://share.qingdouyin.com/app/sub-commission-download/1652420599279?type=&code=EWDJXS/
+      description: 涨粉、引流、工具、选品、自购等一站式服务，总有一款适合你！全网达人都在用。
+    - title: 流量变现
+      logo:  images/logos/rengtuiban.png
+      url: https://dt.bd.cn/#/pages/login/register?invite_code=516557
+      description: 一线的APP推广项目分发和流量变现平台
+    - title: 5ber eSIM卡
+      logo: images/logos/5ber.png
+      url: https://esim.5ber.com/?language=en-US&utm_source=kjgx&utm_medium=kjgx&utm_campaign=kjgx
+      description: 让国行手机也有eSIM功能
 
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
