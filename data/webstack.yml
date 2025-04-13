@@ -12,6 +12,10 @@
       logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
       url: https://kjgx668.blogspot.com/
       description: 资源分享，详细图文教程。
+    - title: Switch eSIM卡
+      logo: images/logos/Switch.jpg
+      url: https://s.tb.cn/c.0wEMb6
+      description: 让国行手机也有eSIM功能
     - title: 环球巴士
       qrcode: 
       logo: images/logos/HQBS.png
@@ -58,10 +62,7 @@
       logo:  images/logos/rengtuiban.png
       url: https://dt.bd.cn/#/pages/login/register?invite_code=516557
       description: 一线的APP推广项目分发和流量变现平台
-    - title: 5ber eSIM卡
-      logo: images/logos/5ber.png
-      url: https://esim.5ber.com/?language=en-US&utm_source=kjgx&utm_medium=kjgx&utm_campaign=kjgx
-      description: 让国行手机也有eSIM功能
+
 
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
